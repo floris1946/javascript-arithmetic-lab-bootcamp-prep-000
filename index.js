@@ -3,7 +3,7 @@ function add(a, b) {
   return a + b;
 }
 
-*/
+/*
 it('subtract(a, b) subtracts b from a and returns the result', function() {
   expect(subtract(a, b)).toEqual(a - b)
 })
@@ -46,4 +46,4 @@ describe('preserveDecimal(n)', function() {
   it('returns NaN as appropriate', function() {
     expect(isNaN(preserveDecimal('sldkjflksjf'))).toEqual(true)
     
-  /
+  */
